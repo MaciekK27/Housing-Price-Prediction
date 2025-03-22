@@ -45,9 +45,13 @@ jupyter notebook housing_prediction.ipynb
 
 ## 📈 Visualizations
 ### Price Distribution (Before & After Log Transform)
-(Skewness in the original price values and how log transformation helps)
+- `raw_price_skewness.png` → Shows skewness in original prices and how log transformation helps.
 ### Feature Importance (XGBoost)
-(Which features impact the predictions the most?)
+- `feature_importance.png` → Reveals which features drive predictions most.
+### Predicted vs. Actual Prices
+- `predicted_vs_actual.png` → Compares model predictions to real prices.
+### Residual Plot
+- `residual_plot.png` → Displays the spread of prediction errors.
 
 ## 🛠 Possible Improvements
 - 🔹 Try other models (LightGBM, CatBoost, ANN)
