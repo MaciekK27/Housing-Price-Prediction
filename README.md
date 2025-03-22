@@ -37,7 +37,7 @@ jupyter notebook housing_prediction.ipynb
 ## 📊 Results
 - 📈 **R² Score**: 0.671  
 - 📉 **RMSE/Mean Price**: 26.7%
-- 
+ 
 ## 📁 Project Files
 - housing_prediction.ipynb → Main notebook (data analysis, training, evaluation)
 - images/ → Graphs & plots (e.g., raw_price_skewness.png)
