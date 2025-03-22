@@ -24,7 +24,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn xgboost joblib
 ## 🚀 How to Use This Project
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/your-username/housing-price-prediction.git
+git clone https://github.com/MaciekK27/housing-price-prediction.git
 cd housing-price-prediction
 ```
 ### 2️⃣ Add the Dataset
@@ -42,7 +42,7 @@ jupyter notebook housing_prediction.ipynb
 - 🔥 **Key Features**: area, bathrooms, airconditioning
 
 ## 📁 Project Files
-- ousing_prediction.ipynb → Main notebook (data analysis, training, evaluation)
+- housing_prediction.ipynb → Main notebook (data analysis, training, evaluation)
 - images/ → Graphs & plots (e.g., raw_price_skewness.png)
 - models/best_xgb_model.pkl → Saved XGBoost model
 
@@ -60,4 +60,4 @@ jupyter notebook housing_prediction.ipynb
 
 ## 📬 Contact
 - 📧 **Email**: maciejkrawczynski2727@gmail.com
-- 🔗 **GitHub**: MaciekK27
+- 🔗 **GitHub**: [MaciekK27](https://github.com/MaciekK27)
